@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Aperture Template
+title: Diana Hanesová - art
 url: "https://cosmic-hippopotamus.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -21,7 +21,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Europe/Bratislava
 
 permalink: pretty
 
