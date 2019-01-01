@@ -2,21 +2,21 @@
 # Site
 
 title: Diana Hanesová - art
-url: "https://radiant-beetroot.cloudvent.net"
+url: "https://diana-hanesova-art.netlify.com"
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Photography portfolio template for Jekyll.
+description: Diana Hanesova - Art portfolio
 author:
-  name:
+  name: Diana Hanesova
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Aperture Template
+  name: Diana Hanesova
   links:
-    - https://github.com/CloudCannon/aperture-jekyll-template
+    - https://github.com/filiphanes/diana-hanesova-art
 
 # -----
 # Build
@@ -32,7 +32,7 @@ defaults:
     values:
       layout: "default"
       text_width: true
-      image: /uploads/1.jpg
+      image: /uploads/abstrakcia-modro-biela.jpg
   -
     scope:
       path: "index.html"
