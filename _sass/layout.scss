@@ -6,6 +6,11 @@ body {
 	padding: 0 50px;
 }
 
+.wrap img {
+	height: 5em;
+	float: left;
+}
+
 header h1 a {
 	text-decoration: none;
 	color: $color;
