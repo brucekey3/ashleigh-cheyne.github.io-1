@@ -1,5 +1,9 @@
 - name: Home
   link: /
+- name: Digital
+  link: /digital/
+# - name: Traditional
+#   link: /traditional/
 - name: About
   link: /about/
 - name: Contact me
