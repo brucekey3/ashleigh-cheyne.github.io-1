@@ -14,7 +14,7 @@ photos:
   - image: /uploads/Desert_tiefling.png
     caption: Desert tiefling (2018)
 ---
-
+<div class="split-content">
 <ul class="gallery">
 	{% for photo in page.photos %}
 		<li style="background-image: url('{{ site.baseurl }}{{ photo.image | resize: "800x800>" }}')"><a title="{{ photo.caption }}" href="{{ site.baseurl }}{{ photo.image }}" data-id="#{{ photo.image | slugify }}" data-caption="{{ photo.caption }}"></a></li>
@@ -54,3 +54,4 @@ photos:
     document.body.appendChild(script);
   }
 </script>
+</div>
