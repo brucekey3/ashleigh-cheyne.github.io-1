@@ -31,8 +31,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-      text_width: true
-      image: /uploads/abstrakcia-modro-biela.jpg
+      text_width: false
   -
     scope:
       path: "index.html"
