@@ -36,6 +36,7 @@ defaults:
     scope:
       path: "index.html"
     values:
+      layout: "default"
       text_width: false
 
 plugins:
